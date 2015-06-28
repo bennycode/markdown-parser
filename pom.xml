@@ -14,17 +14,9 @@
   </properties>
   <dependencies>
     <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20141113</version>
-      <type>jar</type>
-    </dependency>
-    <!-- Markdown -->
-    <dependency>
-      <groupId>org.commonjava.googlecode.markdown4j</groupId>
-      <artifactId>markdown4j</artifactId>
-      <version>2.2-cj-1.0</version>
-      <type>jar</type>
+      <groupId>org.tautua.markdownpapers</groupId>
+      <artifactId>markdownpapers-core</artifactId>
+      <version>1.4.2</version>
     </dependency>
   </dependencies>
 </project>
